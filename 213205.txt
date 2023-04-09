@@ -37,6 +37,15 @@ git push -u origin bug3
 24.git checkout master
 25.git merge bug3
 26.git push -u origin master
-
+27.git log
+git add . 
+git commit -m "Final commit"
+28.git push -u origin master
+29.Napraviv fork
+30.git clone https://github.com/StefanZivkovikj/SI2023.git
+31.git add .
+git commit -m "Add file"
+32.git push -u origin master
+33.Contribute -> Create pull request
 
 
