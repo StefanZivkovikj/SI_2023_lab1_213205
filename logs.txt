@@ -1,0 +1,28 @@
+commit f9d17b260831fdec5fe8013b9e95ffd1b03f4f51 (HEAD -> bug3, origin/master, origin/bug3, master)
+Author: StefanZivkovikj <stefan.zhivkovikj@students.finki.ukim.mk> 
+Date:   Sun Apr 9 22:36:03 2023 +0200       
+              
+	Fix method sumEvenNumbers       
+                                                                                                                                                                                                            commit 1f159379c2e4681c0f5017ae2aa48e1adcceecb3                                                                         Merge: c709ced 132cd6a                                                                                                  Author: StefanZivkovikj <stefan.zhivkovikj@students.finki.ukim.mk>                                                      Date:   Sun Apr 9 22:41:41 2023 +0200                                                                                                                                                                                                               Merge branch 'bug2'                                                                                                                                                                                                      commit 132cd6ab53e7c154939165eacffa95109c18bd49 (origin/bug2, bug2)    
+Author: StefanZivkovikj <stefan.zhivkovikj@students.finki.ukim.mk>    
+Date:   Sun Apr 9 22:35:07 2023 +0200           
+                 
+	Fix wrong condition in filterOddNumbers  
+
+commit c709cedfccc745c39f2c4e1b073aa1bdf8b83241 (origin/bug1, bug1) 
+Author: StefanZivkovikj <stefan.zhivkovikj@students.finki.ukim.mk>    
+Date:   Sun Apr 9 22:33:17 2023 +0200                              
+
+	Fix wrong loop for reading                 
+
+commit a5fb335b833fbad5daf23aa38023ad85dadfbe25   
+Author: StefanZivkovikj <stefan.zhivkovikj@students.finki.ukim.mk>   
+Date:   Sun Apr 9 22:30:43 2023 +0200 
+
+	Add java class
+
+commit 5b449bedc4d42d4c2218af467aae1fe1645a4f26   
+Author: StefanZivkovikj <stefan.zhivkovikj@students.finki.ukim.mk>  
+Date:   Sun Apr 9 22:28:32 2023 +0200                           
+
+	Inital commit
